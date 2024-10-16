@@ -82,7 +82,7 @@ class MainActivity : AppCompatActivity() {
         webView.clearHistory()
 
         // URLを読み込む
-        webView.loadUrl("https://172.16.20.108:3000")
+        webView.loadUrl("https://172.16.20.113:3000")
     }
 
     // 権限を確認し、リクエストするメソッド
